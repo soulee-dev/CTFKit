@@ -17,7 +17,7 @@ First and foremost, thank you for considering contributing to CTFKit! We believe
 - Ensure your PR description clearly describes the problem and solution. Include the relevant issue number if applicable.
 
 # Questions?
-- If you have any questions or something isn't clear, feel free to reach out to us by creating an issue.
+- If you have any questions or something isn't clear, feel free to reach out to us at alus20x@gmail.com or create an issue.
 
 Thank you for investing your time in our project, your contribution matters!
 
